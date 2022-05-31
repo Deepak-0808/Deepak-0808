@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Project**
 
-- 🌱 I’m currently learning **DSA and Android**
+- 🌱 I’m currently learning **DSA and Full Stack Android Development**
 
 - 📫 How to reach me **i.deepak0808@gmail.com**
 
