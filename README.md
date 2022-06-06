@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **DSA and Full Stack Android Development**
 
+- In my free time I solve problems on LeetCode and read tech articles.
+
 - 📫 How to reach me **i.deepak0808@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
