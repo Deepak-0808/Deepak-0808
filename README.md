@@ -12,7 +12,6 @@
 - 📖 In my free time I solve problems on LeetCode and read tech articles.
 
 - 📫 How to reach me **i.deepak0808@gmail.com**
-- 🔎 deepak0808
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
