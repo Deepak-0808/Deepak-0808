@@ -31,11 +31,13 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-0808&show_icons=true&locale=en&layout=compact" alt="deepak-0808" width="495"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-0808&show_icons=true&locale=en&layout=compact" alt="deepak-0808" width="495" height="260"/>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=deepak-0808&show_icons=true&locale=en" alt="deepak-0808"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=deepak-0808&show_icons=true&locale=en" alt="deepak-0808" width="495" height="250"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-0808&" alt="deepak-0808" />
-<img align="centre" src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="500" height="300"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-0808&" alt="deepak-0808" width="495" height="250"/>
+<img align="right" src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="495" height="250"/>
 
 
