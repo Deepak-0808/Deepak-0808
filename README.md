@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **DSA and Full Stack Android Development**
 
-- 📖 In my free time I solve problems on LeetCode and read tech articles.
+- 👯 I’m looking to collaborate with other Software Developers
+
+- 📖 In my free time I solve problems on LeetCode or GeeksForGeeks and read tech articles.
 
 - 📫 How to reach me **i.deepak0808@gmail.com**
 
