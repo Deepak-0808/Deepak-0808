@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-0808" alt="deepak-0808" /></a> </p>
 
-- 🔭 I’m currently working on **Android Project**
+- 🔭 I’m currently working on Web Project:- **Job Search Portal**
 
-- 🌱 I’m currently learning **DSA and Full Stack Android Development**
+- 🌱 I’m currently learning **DSA and Backend Development**
 
 - 👯 I’m looking to collaborate with other Software Developers
 
